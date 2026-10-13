@@ -18,6 +18,7 @@
 /.next-cli-build/
 /out/
 cli/.build-home/
+cli/app
 product
 # production
 /build
