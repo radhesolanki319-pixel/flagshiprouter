@@ -1,5 +1,7 @@
 # FlagshipRouter
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/radhesolanki319-pixel/flagshiprouter)
+
 **Free AI models for every coding tool.** FlagshipRouter is a local AI gateway that connects Claude Code, Codex, Cursor, Cline, OpenCode and other coding tools to free AI models through one OpenAI-compatible endpoint.
 
 - **Free providers only.** The dashboard, management APIs and routing only expose providers with a free offer (Kiro, OpenCode Free, OpenRouter free models, NVIDIA NIM, Groq, Cloudflare Workers AI, Ollama, self-hosted servers and more).
